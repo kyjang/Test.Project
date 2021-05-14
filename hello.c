@@ -8,7 +8,11 @@ int main() {
 
    // printf() test
    // pull-1
+<<<<<<< Updated upstream
    // pull-2
+=======
+   // pull-3
+>>>>>>> Stashed changes
 
    return 0;
 }
